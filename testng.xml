@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="bankV1">
+<listeners>
+		<listener class-name="utilities.Reporting" />
+	</listeners>
+
+
+
+	<test name="BankingApp Test">
+		<parameter name="browser" value="chrome" />
+		<!--  	 for ie read this to fix the enabled issue:https://www.softwaretestingmaterial.com/failed-to-launch-ie-driver-using-selenium/ />-->						
+		
+		<classes>
+	 	<!-- <class name="testCases.TC_LoginTest_001" />	-->
+		<!--	    <class name="testCases.TC_LoginTestDDT_4" />-->
+		 	<class name="testCases.TC_AddCustomerTest_003" />
+
+		</classes>
+
+	</test>
+
+</suite>

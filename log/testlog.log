@@ -1,0 +1,487 @@
+2019-03-20 19:03:19,596 - utilities.Log -INFO - URL is opened
+2019-03-20 19:03:19,917 - utilities.Log -INFO - entered username
+2019-03-20 19:03:20,120 - utilities.Log -INFO - entered password
+2019-03-20 19:03:22,578 - utilities.Log -INFO - clicked submit button
+2019-03-20 23:10:52,853 - utilities.Log -INFO - URL is opened
+2019-03-20 23:10:53,177 - utilities.Log -INFO - entered username
+2019-03-20 23:10:53,319 - utilities.Log -INFO - entered password
+2019-03-20 23:10:55,744 - utilities.Log -INFO - clicked submit button
+2019-03-20 23:36:33,991 - utilities.Log -INFO - URL is opened
+2019-03-20 23:36:34,303 - utilities.Log -INFO - entered username
+2019-03-20 23:36:34,454 - utilities.Log -INFO - entered password
+2019-03-20 23:36:36,520 - utilities.Log -INFO - clicked submit button
+2019-03-20 23:47:22,274 - utilities.Log -INFO - URL is opened
+2019-03-20 23:48:13,848 - utilities.Log -INFO - entered username
+2019-03-20 23:48:49,620 - utilities.Log -INFO - entered password
+2019-03-20 23:48:52,798 - utilities.Log -INFO - clicked submit button
+2019-03-21 20:18:40,256 - utilities.Log -INFO - URL is opened
+2019-03-21 20:19:31,552 - utilities.Log -INFO - entered username
+2019-03-21 20:20:08,087 - utilities.Log -INFO - entered password
+2019-03-21 20:20:11,459 - utilities.Log -INFO - clicked submit button
+2019-03-22 00:13:58,761 - utilities.Log -INFO - URL is opened
+2019-03-22 00:14:49,715 - utilities.Log -INFO - entered username
+2019-03-22 00:15:25,517 - utilities.Log -INFO - entered password
+2019-03-22 00:15:29,849 - utilities.Log -INFO - clicked submit button
+2019-03-22 16:48:42,122 - utilities.Log -INFO - URL is opened
+2019-03-22 16:49:35,315 - utilities.Log -INFO - entered username
+2019-03-22 16:50:11,901 - utilities.Log -INFO - entered password
+2019-03-22 16:50:17,149 - utilities.Log -INFO - clicked submit button
+2019-03-22 21:32:13,716 - utilities.Log -INFO - URL is opened
+2019-03-22 21:33:05,390 - utilities.Log -INFO - entered username
+2019-03-22 21:33:41,104 - utilities.Log -INFO - entered password
+2019-03-22 21:33:45,257 - utilities.Log -INFO - clicked submit button
+2019-03-22 23:14:52,588 - utilities.Log -INFO - URL is opened
+2019-03-22 23:15:43,410 - utilities.Log -INFO - entered username
+2019-03-22 23:16:19,367 - utilities.Log -INFO - entered password
+2019-03-22 23:16:24,558 - utilities.Log -INFO - clicked submit button
+2019-03-22 23:20:21,217 - utilities.Log -INFO - URL is opened
+2019-03-22 23:20:24,785 - utilities.Log -INFO - entered username
+2019-03-22 23:20:24,902 - utilities.Log -INFO - entered password
+2019-03-22 23:20:31,596 - utilities.Log -INFO - clicked submit button
+2019-03-22 23:26:33,247 - utilities.Log -INFO - URL is opened
+2019-03-22 23:26:33,596 - utilities.Log -INFO - entered username
+2019-03-22 23:26:33,756 - utilities.Log -INFO - entered password
+2019-03-22 23:26:35,303 - utilities.Log -INFO - clicked submit button
+2019-03-25 22:59:43,508 - utilities.Log -INFO - URL is opened
+2019-03-25 22:59:44,958 - utilities.Log -INFO - entered username
+2019-03-25 22:59:45,150 - utilities.Log -INFO - entered password
+2019-03-25 22:59:47,662 - utilities.Log -INFO - clicked submit button
+2019-03-26 00:13:49,292 - utilities.Log -INFO - username is provided
+2019-03-26 00:13:51,466 - utilities.Log -INFO - password is provided
+2019-03-26 00:13:53,972 - utilities.Log -INFO - clicked submit button
+2019-03-26 00:13:59,548 - utilities.Log -INFO - username is provided
+2019-03-26 00:14:01,701 - utilities.Log -INFO - password is provided
+2019-03-26 00:14:04,175 - utilities.Log -INFO - clicked submit button
+2019-03-26 00:14:07,971 - utilities.Log -INFO - username is provided
+2019-03-26 00:14:10,136 - utilities.Log -INFO - password is provided
+2019-03-26 00:14:12,737 - utilities.Log -INFO - clicked submit button
+2019-03-26 00:14:16,607 - utilities.Log -INFO - username is provided
+2019-03-26 00:14:18,734 - utilities.Log -INFO - password is provided
+2019-03-26 00:14:21,220 - utilities.Log -INFO - clicked submit button
+2019-03-26 00:14:24,904 - utilities.Log -INFO - username is provided
+2019-03-26 00:14:27,069 - utilities.Log -INFO - password is provided
+2019-03-26 00:14:29,765 - utilities.Log -INFO - clicked submit button
+2019-03-26 16:56:42,024 - utilities.Log -INFO - username is provided
+2019-03-26 16:56:44,439 - utilities.Log -INFO - password is provided
+2019-03-26 16:56:51,763 - utilities.Log -INFO - clicked submit button
+2019-03-26 16:56:51,869 - utilities.Log -INFO - login passed
+2019-03-26 16:57:04,072 - utilities.Log -INFO - username is provided
+2019-03-26 16:57:06,199 - utilities.Log -INFO - password is provided
+2019-03-26 16:57:09,069 - utilities.Log -INFO - clicked submit button
+2019-03-26 16:57:13,383 - utilities.Log -INFO - username is provided
+2019-03-26 16:57:15,600 - utilities.Log -INFO - password is provided
+2019-03-26 16:57:18,282 - utilities.Log -INFO - clicked submit button
+2019-03-26 16:57:22,698 - utilities.Log -INFO - username is provided
+2019-03-26 16:57:24,803 - utilities.Log -INFO - password is provided
+2019-03-26 16:57:27,552 - utilities.Log -INFO - clicked submit button
+2019-03-26 16:57:32,406 - utilities.Log -INFO - username is provided
+2019-03-26 16:57:34,511 - utilities.Log -INFO - password is provided
+2019-03-26 16:57:36,958 - utilities.Log -INFO - clicked submit button
+2019-03-26 17:13:25,376 - utilities.Log -INFO - username is provided
+2019-03-26 17:13:27,486 - utilities.Log -INFO - password is provided
+2019-03-26 17:13:30,286 - utilities.Log -INFO - clicked submit button
+2019-03-26 17:13:36,800 - utilities.Log -INFO - username is provided
+2019-03-26 17:13:38,995 - utilities.Log -INFO - password is provided
+2019-03-26 17:13:41,161 - utilities.Log -INFO - clicked submit button
+2019-03-26 17:13:41,207 - utilities.Log -INFO - login passed
+2019-03-26 17:13:53,454 - utilities.Log -INFO - username is provided
+2019-03-26 17:13:55,616 - utilities.Log -INFO - password is provided
+2019-03-26 17:13:58,405 - utilities.Log -INFO - clicked submit button
+2019-03-26 17:14:06,023 - utilities.Log -INFO - username is provided
+2019-03-26 17:14:08,199 - utilities.Log -INFO - password is provided
+2019-03-26 17:14:10,949 - utilities.Log -INFO - clicked submit button
+2019-03-26 17:14:14,497 - utilities.Log -INFO - username is provided
+2019-03-26 17:14:16,673 - utilities.Log -INFO - password is provided
+2019-03-26 17:14:19,174 - utilities.Log -INFO - clicked submit button
+2019-03-26 17:21:12,777 - utilities.Log -INFO - username is provided
+2019-03-26 17:21:12,906 - utilities.Log -INFO - password is provided
+2019-03-26 17:21:13,082 - utilities.Log -INFO - clicked submit button
+2019-03-26 17:21:16,148 - utilities.Log -INFO - login passed
+2019-03-26 17:21:26,426 - utilities.Log -INFO - username is provided
+2019-03-26 17:21:26,566 - utilities.Log -INFO - password is provided
+2019-03-26 17:21:27,270 - utilities.Log -INFO - clicked submit button
+2019-03-26 17:21:36,840 - utilities.Log -INFO - username is provided
+2019-03-26 17:21:36,956 - utilities.Log -INFO - password is provided
+2019-03-26 17:21:37,388 - utilities.Log -INFO - clicked submit button
+2019-03-26 17:21:42,863 - utilities.Log -INFO - username is provided
+2019-03-26 17:21:42,952 - utilities.Log -INFO - password is provided
+2019-03-26 17:21:43,392 - utilities.Log -INFO - clicked submit button
+2019-03-26 17:21:48,435 - utilities.Log -INFO - username is provided
+2019-03-26 17:21:48,529 - utilities.Log -INFO - password is provided
+2019-03-26 17:21:48,932 - utilities.Log -INFO - clicked submit button
+2019-03-26 17:24:35,899 - utilities.Log -INFO - username is provided
+2019-03-26 17:24:36,055 - utilities.Log -INFO - password is provided
+2019-03-26 17:24:36,554 - utilities.Log -INFO - clicked submit button
+2019-03-26 17:24:46,063 - utilities.Log -INFO - username is provided
+2019-03-26 17:24:46,228 - utilities.Log -INFO - password is provided
+2019-03-26 17:24:46,706 - utilities.Log -INFO - clicked submit button
+2019-03-26 17:24:51,976 - utilities.Log -INFO - username is provided
+2019-03-26 17:24:52,075 - utilities.Log -INFO - password is provided
+2019-03-26 17:24:52,514 - utilities.Log -INFO - clicked submit button
+2019-03-26 17:24:57,830 - utilities.Log -INFO - username is provided
+2019-03-26 17:24:57,924 - utilities.Log -INFO - password is provided
+2019-03-26 17:24:58,345 - utilities.Log -INFO - clicked submit button
+2019-03-26 17:25:03,762 - utilities.Log -INFO - username is provided
+2019-03-26 17:25:03,854 - utilities.Log -INFO - password is provided
+2019-03-26 17:25:04,282 - utilities.Log -INFO - clicked submit button
+2019-03-26 19:52:36,447 - utilities.Log -INFO - username is provided
+2019-03-26 19:52:36,792 - utilities.Log -INFO - password is provided
+2019-03-26 19:52:37,508 - utilities.Log -INFO - clicked submit button
+2019-03-26 19:52:43,264 - utilities.Log -INFO - username is provided
+2019-03-26 19:52:43,401 - utilities.Log -INFO - password is provided
+2019-03-26 19:52:43,849 - utilities.Log -INFO - clicked submit button
+2019-03-26 19:52:48,247 - utilities.Log -INFO - username is provided
+2019-03-26 19:52:48,500 - utilities.Log -INFO - password is provided
+2019-03-26 19:52:48,934 - utilities.Log -INFO - clicked submit button
+2019-03-26 19:52:55,571 - utilities.Log -INFO - username is provided
+2019-03-26 19:52:55,679 - utilities.Log -INFO - password is provided
+2019-03-26 19:52:56,121 - utilities.Log -INFO - clicked submit button
+2019-03-26 19:53:02,538 - utilities.Log -INFO - username is provided
+2019-03-26 19:53:02,714 - utilities.Log -INFO - password is provided
+2019-03-26 19:53:03,270 - utilities.Log -INFO - clicked submit button
+2019-03-26 20:17:08,012 - utilities.Log -INFO - username is provided
+2019-03-26 20:17:08,154 - utilities.Log -INFO - password is provided
+2019-03-26 20:17:08,646 - utilities.Log -INFO - clicked submit button
+2019-03-26 20:17:13,760 - utilities.Log -INFO - username is provided
+2019-03-26 20:17:13,901 - utilities.Log -INFO - password is provided
+2019-03-26 20:17:14,354 - utilities.Log -INFO - clicked submit button
+2019-03-26 20:17:19,605 - utilities.Log -INFO - username is provided
+2019-03-26 20:17:19,807 - utilities.Log -INFO - password is provided
+2019-03-26 20:17:20,386 - utilities.Log -INFO - clicked submit button
+2019-03-26 20:17:25,081 - utilities.Log -INFO - username is provided
+2019-03-26 20:17:25,251 - utilities.Log -INFO - password is provided
+2019-03-26 20:17:25,751 - utilities.Log -INFO - clicked submit button
+2019-03-26 20:17:30,881 - utilities.Log -INFO - username is provided
+2019-03-26 20:17:31,043 - utilities.Log -INFO - password is provided
+2019-03-26 20:17:31,533 - utilities.Log -INFO - clicked submit button
+2019-03-26 22:56:52,475 - utilities.Log -INFO - username is provided
+2019-03-26 22:56:52,899 - utilities.Log -INFO - password is provided
+2019-03-26 22:56:53,164 - utilities.Log -INFO - clicked submit button
+2019-03-26 22:56:56,543 - utilities.Log -INFO - login passed
+2019-03-26 22:57:06,731 - utilities.Log -INFO - username is provided
+2019-03-26 22:57:06,813 - utilities.Log -INFO - password is provided
+2019-03-26 22:57:12,502 - utilities.Log -INFO - clicked submit button
+2019-03-26 22:57:22,349 - utilities.Log -INFO - username is provided
+2019-03-26 22:57:22,460 - utilities.Log -INFO - password is provided
+2019-03-26 22:57:28,252 - utilities.Log -INFO - clicked submit button
+2019-03-26 22:57:34,727 - utilities.Log -INFO - username is provided
+2019-03-26 22:57:34,822 - utilities.Log -INFO - password is provided
+2019-03-26 22:57:40,627 - utilities.Log -INFO - clicked submit button
+2019-03-27 15:19:58,849 - utilities.Log -INFO - username is provided
+2019-03-27 15:19:59,123 - utilities.Log -INFO - password is provided
+2019-03-27 15:19:59,365 - utilities.Log -INFO - clicked submit button
+2019-03-27 15:20:03,689 - utilities.Log -INFO - login passed
+2019-03-27 15:20:15,309 - utilities.Log -INFO - username is provided
+2019-03-27 15:20:15,414 - utilities.Log -INFO - password is provided
+2019-03-27 15:20:23,771 - utilities.Log -INFO - clicked submit button
+2019-03-27 15:20:32,889 - utilities.Log -INFO - username is provided
+2019-03-27 15:20:33,025 - utilities.Log -INFO - password is provided
+2019-03-27 15:20:38,269 - utilities.Log -INFO - clicked submit button
+2019-03-27 15:20:41,279 - utilities.Log -INFO - login passed
+2019-03-27 15:20:51,443 - utilities.Log -INFO - username is provided
+2019-03-27 15:20:52,009 - utilities.Log -INFO - password is provided
+2019-03-27 15:20:57,721 - utilities.Log -INFO - clicked submit button
+2019-03-27 15:21:10,359 - utilities.Log -INFO - username is provided
+2019-03-27 15:21:10,477 - utilities.Log -INFO - password is provided
+2019-03-27 15:21:16,467 - utilities.Log -INFO - clicked submit button
+2019-03-27 16:29:41,177 - utilities.Log -INFO - username is provided
+2019-03-27 16:29:41,322 - utilities.Log -INFO - password is provided
+2019-03-27 16:29:41,468 - utilities.Log -INFO - clicked submit button
+2019-03-27 16:29:45,558 - utilities.Log -INFO - login passed
+2019-03-27 16:29:55,978 - utilities.Log -INFO - username is provided
+2019-03-27 16:29:56,177 - utilities.Log -INFO - password is provided
+2019-03-27 16:30:02,086 - utilities.Log -INFO - clicked submit button
+2019-03-27 16:30:21,539 - utilities.Log -INFO - username is provided
+2019-03-27 16:30:21,763 - utilities.Log -INFO - password is provided
+2019-03-27 16:30:22,586 - utilities.Log -INFO - clicked submit button
+2019-03-27 16:30:28,962 - utilities.Log -INFO - username is provided
+2019-03-27 16:30:29,065 - utilities.Log -INFO - password is provided
+2019-03-27 16:30:29,540 - utilities.Log -INFO - clicked submit button
+2019-03-27 16:30:35,498 - utilities.Log -INFO - username is provided
+2019-03-27 16:30:35,599 - utilities.Log -INFO - password is provided
+2019-03-27 16:30:36,334 - utilities.Log -INFO - clicked submit button
+2019-03-27 16:33:19,799 - utilities.Log -INFO - username is provided
+2019-03-27 16:33:19,936 - utilities.Log -INFO - password is provided
+2019-03-27 16:33:20,475 - utilities.Log -INFO - clicked submit button
+2019-03-27 16:33:28,794 - utilities.Log -INFO - username is provided
+2019-03-27 16:33:28,908 - utilities.Log -INFO - password is provided
+2019-03-27 16:33:29,357 - utilities.Log -INFO - clicked submit button
+2019-03-27 16:33:34,514 - utilities.Log -INFO - username is provided
+2019-03-27 16:33:34,622 - utilities.Log -INFO - password is provided
+2019-03-27 16:33:35,065 - utilities.Log -INFO - clicked submit button
+2019-03-27 16:33:40,327 - utilities.Log -INFO - username is provided
+2019-03-27 16:33:40,426 - utilities.Log -INFO - password is provided
+2019-03-27 16:33:40,878 - utilities.Log -INFO - clicked submit button
+2019-03-27 16:33:45,758 - utilities.Log -INFO - username is provided
+2019-03-27 16:33:45,852 - utilities.Log -INFO - password is provided
+2019-03-27 16:33:46,322 - utilities.Log -INFO - clicked submit button
+2019-03-27 16:39:27,741 - utilities.Log -INFO - username is provided
+2019-03-27 16:39:27,877 - utilities.Log -INFO - password is provided
+2019-03-27 16:39:28,019 - utilities.Log -INFO - clicked submit button
+2019-03-27 16:39:31,058 - utilities.Log -INFO - login passed
+2019-03-27 16:39:41,454 - utilities.Log -INFO - username is provided
+2019-03-27 16:39:41,527 - utilities.Log -INFO - password is provided
+2019-03-27 16:39:42,211 - utilities.Log -INFO - clicked submit button
+2019-03-27 16:39:57,319 - utilities.Log -INFO - username is provided
+2019-03-27 16:39:57,427 - utilities.Log -INFO - password is provided
+2019-03-27 16:39:57,589 - utilities.Log -INFO - clicked submit button
+2019-03-27 16:40:00,596 - utilities.Log -INFO - login passed
+2019-03-27 16:40:10,794 - utilities.Log -INFO - username is provided
+2019-03-27 16:40:10,901 - utilities.Log -INFO - password is provided
+2019-03-27 16:40:16,697 - utilities.Log -INFO - clicked submit button
+2019-03-27 16:40:24,141 - utilities.Log -INFO - username is provided
+2019-03-27 16:40:24,250 - utilities.Log -INFO - password is provided
+2019-03-27 16:40:30,067 - utilities.Log -INFO - clicked submit button
+2019-03-27 17:19:31,846 - utilities.Log -INFO - username is provided
+2019-03-27 17:19:31,951 - utilities.Log -INFO - password is provided
+2019-03-27 17:19:32,459 - utilities.Log -INFO - clicked submit button
+2019-03-27 17:19:41,978 - utilities.Log -INFO - username is provided
+2019-03-27 17:19:42,104 - utilities.Log -INFO - password is provided
+2019-03-27 17:19:42,270 - utilities.Log -INFO - clicked submit button
+2019-03-27 17:19:45,297 - utilities.Log -INFO - login passed
+2019-03-27 17:19:55,668 - utilities.Log -INFO - username is provided
+2019-03-27 17:19:55,953 - utilities.Log -INFO - password is provided
+2019-03-27 17:20:01,773 - utilities.Log -INFO - clicked submit button
+2019-03-27 17:20:10,232 - utilities.Log -INFO - username is provided
+2019-03-27 17:20:14,723 - utilities.Log -INFO - password is provided
+2019-03-27 17:20:20,496 - utilities.Log -INFO - clicked submit button
+2019-03-27 17:20:27,654 - utilities.Log -INFO - username is provided
+2019-03-27 17:20:27,766 - utilities.Log -INFO - password is provided
+2019-03-27 17:20:33,342 - utilities.Log -INFO - clicked submit button
+2019-03-27 22:15:56,298 - utilities.Log -INFO - username is provided
+2019-03-27 22:15:57,103 - utilities.Log -INFO - password is provided
+2019-03-27 22:15:57,794 - utilities.Log -INFO - clicked submit button
+2019-03-27 22:16:01,210 - utilities.Log -INFO - login passed
+2019-03-27 22:16:11,480 - utilities.Log -INFO - username is provided
+2019-03-27 22:16:11,569 - utilities.Log -INFO - password is provided
+2019-03-27 22:16:18,022 - utilities.Log -INFO - clicked submit button
+2019-03-27 22:16:25,024 - utilities.Log -INFO - username is provided
+2019-03-27 22:16:25,143 - utilities.Log -INFO - password is provided
+2019-03-27 22:16:30,978 - utilities.Log -INFO - clicked submit button
+2019-03-27 22:16:36,418 - utilities.Log -INFO - username is provided
+2019-03-27 22:16:36,588 - utilities.Log -INFO - password is provided
+2019-03-27 22:16:36,862 - utilities.Log -INFO - username is provided
+2019-03-27 22:16:36,924 - utilities.Log -INFO - password is provided
+2019-03-27 22:26:39,875 - utilities.Log -INFO - username is provided
+2019-03-27 22:26:40,066 - utilities.Log -INFO - password is provided
+2019-03-27 22:26:40,635 - utilities.Log -INFO - clicked submit button
+2019-03-27 22:26:47,150 - utilities.Log -INFO - username is provided
+2019-03-27 22:26:47,290 - utilities.Log -INFO - password is provided
+2019-03-27 22:26:47,724 - utilities.Log -INFO - clicked submit button
+2019-03-27 22:26:59,608 - utilities.Log -INFO - username is provided
+2019-03-27 22:27:00,238 - utilities.Log -INFO - password is provided
+2019-03-27 22:27:01,272 - utilities.Log -INFO - clicked submit button
+2019-03-27 22:27:08,567 - utilities.Log -INFO - username is provided
+2019-03-27 22:27:08,917 - utilities.Log -INFO - password is provided
+2019-03-27 22:27:09,653 - utilities.Log -INFO - clicked submit button
+2019-03-27 22:27:18,656 - utilities.Log -INFO - username is provided
+2019-03-27 22:27:18,845 - utilities.Log -INFO - password is provided
+2019-03-27 22:27:19,372 - utilities.Log -INFO - clicked submit button
+2019-03-27 23:57:30,811 - utilities.Log -INFO - username is provided
+2019-03-27 23:57:30,970 - utilities.Log -INFO - password is provided
+2019-03-27 23:57:31,158 - utilities.Log -INFO - clicked submit button
+2019-03-27 23:57:34,213 - utilities.Log -INFO - login passed
+2019-03-27 23:58:58,354 - utilities.Log -INFO - username is provided
+2019-03-27 23:58:58,554 - utilities.Log -INFO - password is provided
+2019-03-28 00:02:07,506 - utilities.Log -INFO - username is provided
+2019-03-28 00:02:07,631 - utilities.Log -INFO - password is provided
+2019-03-28 00:02:07,800 - utilities.Log -INFO - clicked submit button
+2019-03-28 00:02:10,837 - utilities.Log -INFO - login passed
+2019-03-28 00:17:02,646 - utilities.Log -INFO - username is provided
+2019-03-28 00:17:02,814 - utilities.Log -INFO - password is provided
+2019-03-28 00:17:02,993 - utilities.Log -INFO - clicked submit button
+2019-03-28 00:17:06,032 - utilities.Log -INFO - login passed
+2019-03-28 00:20:48,516 - utilities.Log -INFO - username is provided
+2019-03-28 00:20:48,665 - utilities.Log -INFO - password is provided
+2019-03-28 00:21:45,797 - utilities.Log -INFO - username is provided
+2019-03-28 00:21:45,932 - utilities.Log -INFO - password is provided
+2019-03-28 00:21:46,106 - utilities.Log -INFO - clicked submit button
+2019-03-28 00:21:49,142 - utilities.Log -INFO - login passed
+2019-03-28 00:24:06,791 - utilities.Log -INFO - username is provided
+2019-03-28 00:24:06,922 - utilities.Log -INFO - password is provided
+2019-03-28 00:24:07,306 - utilities.Log -INFO - clicked submit button
+2019-03-28 00:26:38,591 - utilities.Log -INFO - username is provided
+2019-03-28 00:26:38,731 - utilities.Log -INFO - password is provided
+2019-03-28 00:27:05,164 - utilities.Log -INFO - username is provided
+2019-03-28 00:27:05,302 - utilities.Log -INFO - password is provided
+2019-03-28 00:27:05,766 - utilities.Log -INFO - clicked submit button
+2019-03-28 00:29:57,335 - utilities.Log -INFO - username is provided
+2019-03-28 00:29:57,450 - utilities.Log -INFO - password is provided
+2019-03-28 00:29:57,627 - utilities.Log -INFO - clicked submit button
+2019-03-28 00:30:03,668 - utilities.Log -INFO - login passed
+2019-03-28 00:31:27,997 - utilities.Log -INFO - username is provided
+2019-03-28 00:31:28,116 - utilities.Log -INFO - password is provided
+2019-03-28 00:31:28,604 - utilities.Log -INFO - clicked submit button
+2019-03-28 00:32:53,954 - utilities.Log -INFO - username is provided
+2019-03-28 00:32:54,055 - utilities.Log -INFO - password is provided
+2019-03-28 00:32:54,449 - utilities.Log -INFO - clicked submit button
+2019-03-28 00:35:50,575 - utilities.Log -INFO - username is provided
+2019-03-28 00:35:50,725 - utilities.Log -INFO - password is provided
+2019-03-28 00:35:50,912 - utilities.Log -INFO - clicked submit button
+2019-03-28 00:35:53,946 - utilities.Log -INFO - login passed
+2019-03-28 00:36:55,205 - utilities.Log -INFO - username is provided
+2019-03-28 00:36:55,339 - utilities.Log -INFO - password is provided
+2019-03-28 00:36:55,765 - utilities.Log -INFO - clicked submit button
+2019-03-28 22:37:43,537 - utilities.Log -INFO - username is provided
+2019-03-28 22:37:44,018 - utilities.Log -INFO - password is provided
+2019-03-28 22:37:44,527 - utilities.Log -INFO - clicked submit button
+2019-03-28 22:37:47,624 - utilities.Log -INFO - login passed
+2019-03-28 22:45:03,392 - utilities.Log -INFO - URL is opened
+2019-03-28 22:45:03,740 - utilities.Log -INFO - entered username
+2019-03-28 22:45:03,916 - utilities.Log -INFO - entered password
+2019-03-28 22:45:06,479 - utilities.Log -INFO - clicked submit button
+2019-03-28 22:45:53,756 - utilities.Log -INFO - URL is opened
+2019-03-28 22:45:54,202 - utilities.Log -INFO - entered username
+2019-03-28 22:45:54,415 - utilities.Log -INFO - entered password
+2019-03-28 22:45:56,773 - utilities.Log -INFO - clicked submit button
+2019-03-28 22:46:07,664 - utilities.Log -INFO - username is provided
+2019-03-28 22:46:07,805 - utilities.Log -INFO - password is provided
+2019-03-28 22:46:08,412 - utilities.Log -INFO - clicked submit button
+2019-03-28 22:57:48,108 - utilities.Log -INFO - URL is opened
+2019-03-28 22:57:48,483 - utilities.Log -INFO - entered username
+2019-03-28 22:57:48,617 - utilities.Log -INFO - entered password
+2019-03-28 22:57:51,022 - utilities.Log -INFO - clicked submit button
+2019-03-28 22:58:01,473 - utilities.Log -INFO - username is provided
+2019-03-28 22:58:01,624 - utilities.Log -INFO - password is provided
+2019-03-28 22:58:02,101 - utilities.Log -INFO - clicked submit button
+2019-03-28 22:59:15,170 - utilities.Log -INFO - URL is opened
+2019-03-28 22:59:15,495 - utilities.Log -INFO - entered username
+2019-03-28 22:59:15,605 - utilities.Log -INFO - entered password
+2019-03-28 22:59:17,924 - utilities.Log -INFO - clicked submit button
+2019-03-28 22:59:28,231 - utilities.Log -INFO - username is provided
+2019-03-28 22:59:28,416 - utilities.Log -INFO - password is provided
+2019-03-28 22:59:28,949 - utilities.Log -INFO - clicked submit button
+2019-03-28 22:59:35,557 - utilities.Log -WARN - Login failed
+2019-03-28 22:59:35,699 - utilities.Log -INFO - username is provided
+2019-03-28 22:59:35,822 - utilities.Log -INFO - password is provided
+2019-03-28 22:59:36,337 - utilities.Log -INFO - clicked submit button
+2019-03-28 22:59:43,419 - utilities.Log -WARN - Login failed
+2019-03-28 22:59:43,583 - utilities.Log -INFO - username is provided
+2019-03-28 22:59:43,688 - utilities.Log -INFO - password is provided
+2019-03-28 22:59:44,093 - utilities.Log -INFO - clicked submit button
+2019-03-28 22:59:50,826 - utilities.Log -WARN - Login failed
+2019-03-28 22:59:50,987 - utilities.Log -INFO - username is provided
+2019-03-28 22:59:51,309 - utilities.Log -INFO - password is provided
+2019-03-28 22:59:51,824 - utilities.Log -INFO - clicked submit button
+2019-03-28 22:59:59,041 - utilities.Log -WARN - Login failed
+2019-03-28 23:31:04,744 - utilities.Log -INFO - URL is opened
+2019-03-28 23:31:05,040 - utilities.Log -INFO - entered username
+2019-03-28 23:31:05,410 - utilities.Log -INFO - entered password
+2019-03-28 23:31:07,408 - utilities.Log -INFO - clicked submit button
+2019-03-28 23:31:31,800 - utilities.Log -INFO - username is provided
+2019-03-28 23:31:32,010 - utilities.Log -INFO - password is provided
+2019-03-28 23:31:32,535 - utilities.Log -INFO - clicked submit button
+2019-03-28 23:31:39,614 - utilities.Log -WARN - Login failed
+2019-03-28 23:31:39,882 - utilities.Log -INFO - username is provided
+2019-03-28 23:31:40,032 - utilities.Log -INFO - password is provided
+2019-03-28 23:31:40,496 - utilities.Log -INFO - clicked submit button
+2019-03-28 23:31:47,987 - utilities.Log -WARN - Login failed
+2019-03-28 23:31:48,141 - utilities.Log -INFO - username is provided
+2019-03-28 23:31:48,261 - utilities.Log -INFO - password is provided
+2019-03-28 23:31:48,722 - utilities.Log -INFO - clicked submit button
+2019-03-28 23:31:55,658 - utilities.Log -WARN - Login failed
+2019-03-28 23:31:55,898 - utilities.Log -INFO - username is provided
+2019-03-28 23:31:56,043 - utilities.Log -INFO - password is provided
+2019-03-28 23:31:56,497 - utilities.Log -INFO - clicked submit button
+2019-03-28 23:32:03,400 - utilities.Log -WARN - Login failed
+2019-03-28 23:38:07,389 - utilities.Log -INFO - URL is opened
+2019-03-28 23:38:07,745 - utilities.Log -INFO - entered username
+2019-03-28 23:38:07,959 - utilities.Log -INFO - entered password
+2019-03-28 23:38:10,445 - utilities.Log -INFO - clicked submit button
+2019-03-28 23:38:31,527 - utilities.Log -INFO - username is provided
+2019-03-28 23:38:31,678 - utilities.Log -INFO - password is provided
+2019-03-28 23:38:32,335 - utilities.Log -INFO - clicked submit button
+2019-03-28 23:38:41,042 - utilities.Log -WARN - Login failed
+2019-03-28 23:38:41,264 - utilities.Log -INFO - username is provided
+2019-03-28 23:38:41,461 - utilities.Log -INFO - password is provided
+2019-03-28 23:38:41,949 - utilities.Log -INFO - clicked submit button
+2019-03-28 23:38:50,912 - utilities.Log -WARN - Login failed
+2019-03-28 23:38:51,040 - utilities.Log -INFO - username is provided
+2019-03-28 23:38:51,140 - utilities.Log -INFO - password is provided
+2019-03-28 23:38:51,625 - utilities.Log -INFO - clicked submit button
+2019-03-28 23:39:01,070 - utilities.Log -WARN - Login failed
+2019-03-28 23:39:01,251 - utilities.Log -INFO - username is provided
+2019-03-28 23:39:01,381 - utilities.Log -INFO - password is provided
+2019-03-28 23:39:01,856 - utilities.Log -INFO - clicked submit button
+2019-03-28 23:39:09,953 - utilities.Log -WARN - Login failed
+2019-03-29 00:00:48,879 - utilities.Log -INFO - username is provided
+2019-03-29 00:00:48,998 - utilities.Log -INFO - password is provided
+2019-03-29 00:00:49,156 - utilities.Log -INFO - clicked submit button
+2019-03-29 00:00:52,189 - utilities.Log -INFO - login passed
+2019-03-29 17:25:12,049 - utilities.Log -INFO - username is provided
+2019-03-29 17:25:12,173 - utilities.Log -INFO - password is provided
+2019-03-29 17:25:12,332 - utilities.Log -INFO - clicked submit button
+2019-03-29 17:25:15,365 - utilities.Log -INFO - login passed
+2019-03-29 17:54:31,504 - utilities.Log -INFO - username is provided
+2019-03-29 17:54:31,611 - utilities.Log -INFO - password is provided
+2019-03-29 17:54:32,039 - utilities.Log -INFO - clicked submit button
+2019-03-29 17:57:28,722 - utilities.Log -INFO - username is provided
+2019-03-29 17:57:28,813 - utilities.Log -INFO - password is provided
+2019-03-29 17:57:29,208 - utilities.Log -INFO - clicked submit button
+2019-03-29 17:57:50,119 - utilities.Log -WARN - Login failed
+2019-03-29 17:57:50,222 - utilities.Log -INFO - username is provided
+2019-03-29 17:57:50,305 - utilities.Log -INFO - password is provided
+2019-03-29 17:57:50,970 - utilities.Log -INFO - clicked submit button
+2019-03-29 17:58:11,506 - utilities.Log -WARN - Login failed
+2019-03-29 17:58:11,615 - utilities.Log -INFO - username is provided
+2019-03-29 17:58:11,706 - utilities.Log -INFO - password is provided
+2019-03-29 17:58:12,432 - utilities.Log -INFO - clicked submit button
+2019-03-29 17:58:33,552 - utilities.Log -WARN - Login failed
+2019-03-29 17:58:33,654 - utilities.Log -INFO - username is provided
+2019-03-29 17:58:33,735 - utilities.Log -INFO - password is provided
+2019-03-29 17:58:34,350 - utilities.Log -INFO - clicked submit button
+2019-03-29 17:58:55,459 - utilities.Log -WARN - Login failed
+2019-03-29 17:58:55,561 - utilities.Log -INFO - username is provided
+2019-03-29 17:58:55,633 - utilities.Log -INFO - password is provided
+2019-03-29 17:58:56,259 - utilities.Log -INFO - clicked submit button
+2019-03-29 17:59:17,384 - utilities.Log -WARN - Login failed
+2019-03-29 19:11:48,930 - utilities.Log -INFO - User name is provided
+2019-03-29 19:11:49,072 - utilities.Log -INFO - Passsword is provided
+2019-03-29 19:12:00,970 - utilities.Log -INFO - providing customer details....
+2019-03-29 19:12:13,899 - utilities.Log -INFO - validation started....
+2019-03-29 19:12:13,942 - utilities.Log -INFO - test case passed....
+2019-03-29 19:48:52,608 - utilities.Log -INFO - User name is provided
+2019-03-29 19:48:52,757 - utilities.Log -INFO - Passsword is provided
+2019-03-29 19:49:14,625 - utilities.Log -INFO - providing customer details....
+2019-03-29 19:51:05,099 - utilities.Log -INFO - User name is provided
+2019-03-29 19:51:05,209 - utilities.Log -INFO - Passsword is provided
+2019-03-29 19:51:13,599 - utilities.Log -INFO - providing customer details....
+2019-03-29 19:51:25,134 - utilities.Log -INFO - validation started....
+2019-03-29 19:51:25,177 - utilities.Log -INFO - test case passed....
+2019-03-29 19:53:13,531 - utilities.Log -INFO - User name is provided
+2019-03-29 19:53:13,656 - utilities.Log -INFO - Passsword is provided
+2019-03-29 19:53:25,123 - utilities.Log -INFO - providing customer details....
+2019-03-29 19:55:56,976 - utilities.Log -INFO - User name is provided
+2019-03-29 19:55:57,129 - utilities.Log -INFO - Passsword is provided
+2019-03-29 19:56:07,954 - utilities.Log -INFO - providing customer details....
+2019-03-29 19:57:40,043 - utilities.Log -INFO - User name is provided
+2019-03-29 19:57:40,211 - utilities.Log -INFO - Passsword is provided
+2019-03-29 19:57:56,970 - utilities.Log -INFO - providing customer details....
+2019-03-29 19:58:07,901 - utilities.Log -INFO - validation started....
+2019-03-29 19:58:07,936 - utilities.Log -INFO - test case passed....
+2019-03-29 22:41:06,498 - utilities.Log -INFO - User name is provided
+2019-03-29 22:41:06,641 - utilities.Log -INFO - Passsword is provided
+2019-03-29 22:41:13,490 - utilities.Log -INFO - providing customer details....
+2019-03-29 22:45:13,371 - utilities.Log -INFO - User name is provided
+2019-03-29 22:45:13,643 - utilities.Log -INFO - Passsword is provided
+2019-03-29 22:45:24,114 - utilities.Log -INFO - providing customer details....
+2019-03-29 22:45:34,475 - utilities.Log -INFO - validation started....
+2019-03-29 22:46:36,713 - utilities.Log -INFO - User name is provided
+2019-03-29 22:46:36,882 - utilities.Log -INFO - Passsword is provided
+2019-03-29 22:46:48,318 - utilities.Log -INFO - providing customer details....
+2019-03-29 22:47:00,150 - utilities.Log -INFO - validation started....
+2019-03-29 22:47:00,179 - utilities.Log -INFO - test case passed....
+2019-03-29 23:57:11,263 - utilities.Log -INFO - User name is provided
+2019-03-29 23:57:11,421 - utilities.Log -INFO - Passsword is provided
+2019-03-29 23:57:20,422 - utilities.Log -INFO - providing customer details....
+2019-03-29 23:57:30,218 - utilities.Log -INFO - validation started....
+2019-03-29 23:59:58,414 - utilities.Log -INFO - User name is provided
+2019-03-29 23:59:58,555 - utilities.Log -INFO - Passsword is provided
+2019-03-30 00:00:06,457 - utilities.Log -INFO - providing customer details....
+2019-03-30 00:00:16,889 - utilities.Log -INFO - validation started....
+2019-03-30 00:05:43,131 - utilities.Log -INFO - User name is provided
+2019-03-30 00:05:43,311 - utilities.Log -INFO - Passsword is provided
+2019-03-30 22:36:23,464 - utilities.Log -INFO - User name is provided
+2019-03-30 22:36:23,792 - utilities.Log -INFO - Passsword is provided
+2019-03-31 00:56:40,477 - utilities.Log -INFO - User name is provided
+2019-03-31 00:56:41,356 - utilities.Log -INFO - Passsword is provided
